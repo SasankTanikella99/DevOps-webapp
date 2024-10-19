@@ -27,7 +27,7 @@
 <body>
     <div class="container">
         <h2>Welcome to My Cloud DevOps WebApp</h2>
-        <p>This web application is currently being set up on AWS EC2, demonstrating a typical DevOps project workflow in the cloud. Stay tuned for more updates as we implement continuous integration, deployment, and monitoring!</p>
+        <p>This web application is currently being set up on AWS EC2, demonstrating a typical DevOps project workflow in the cloud.</p>
         <p><strong>Current Status:</strong> Application setup phase.</p>
     </div>
 </body>
